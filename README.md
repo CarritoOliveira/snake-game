@@ -1,6 +1,6 @@
 # Jogo da Cobrinha 🐍
 
-🌐 **Jogar Agora:** [Abrir Jogo](https://carritooliveira.github.io/nome-do-repositorio/)
+🌐 **Jogar Agora:** [Abrir Jogo](https://carritooliveira.github.io/snake-game/)
 
 Versão clássica e nostálgica do famoso **Jogo da Cobrinha**, desenvolvido em um único arquivo HTML com design retrô pixelado.
 
